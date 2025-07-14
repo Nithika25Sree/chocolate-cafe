@@ -1,4 +1,4 @@
-/* === General Reset === */
+
 body, h1, h2, h3, p, button {
   margin: 0;
   padding: 0;
@@ -10,8 +10,6 @@ body {
   background-color: #fffaf5;
   color: #3e1e00;
 }
-
-/* === Hero Section === */
 .hero {
   background: url('images/hero.jpg') no-repeat center center/cover;
   height: 100vh;
@@ -54,7 +52,7 @@ body {
   background-color: #7b3a12;
 }
 
-/* === Menu Section === */
+
 .menu-section {
   padding: 60px 20px;
   background-color: #fff2ec;
@@ -99,7 +97,7 @@ body {
   background-color: #944200;
 }
 
-/* === Gallery Section === */
+
 .gallery-section {
   padding: 40px 20px;
   background-color: #fff8f0;
@@ -127,7 +125,7 @@ body {
   transform: scale(1.05);
 }
 
-/* === Footer === */
+
 footer {
   text-align: center;
   padding: 20px;
@@ -135,7 +133,7 @@ footer {
   color: white;
 }
 
-/* === Toast Notification === */
+
 .toast {
   visibility: hidden;
   min-width: 250px;
